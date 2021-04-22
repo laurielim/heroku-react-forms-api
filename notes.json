@@ -1,0 +1,52 @@
+{
+	"notes": [
+		{
+			"id": 1,
+			"firstName": "Severus",
+			"lastName": "Snape",
+			"phoneNumber": "9999666",
+			"message": "Always.",
+			"role": "Teacher"
+		},
+		{
+			"id": 2,
+			"firstName": "Albus",
+			"lastName": "Dumbledore",
+			"phoneNumber": "2255885",
+			"message": "It matters not what someone is born, but what they grow to be.",
+			"role": "Teacher"
+		},
+		{
+			"id": 3,
+			"firstName": "Ron",
+			"lastName": "Weasley",
+			"phoneNumber": "34654658",
+			"message": "Don\u2019t let the Muggles get you down.",
+			"role": "Student"
+		},
+		{
+			"id": 4,
+			"firstName": "Hermione",
+			"lastName": "Granger",
+			"phoneNumber": "04236687478",
+			"role": "Student",
+			"message": " We could all have been killed \u2014 or worse, expelled!"
+		},
+		{
+			"id": 5,
+			"firstName": "Rubeus",
+			"lastName": "Hagrid",
+			"phoneNumber": "0457566876",
+			"role": "Teacher",
+			"message": "Yer a wizard Harry."
+		},
+		{
+			"firstName": "Fred",
+			"lastName": "Weasley",
+			"phoneNumber": "5435765568",
+			"role": "Student",
+			"message": "Anyone can speak Troll. All you have to do is point and grunt.",
+			"id": 6
+		}
+	]
+}
